@@ -4,10 +4,10 @@ This folder contains the materials for Week 1 of CIS 230.
 
 ## Videos
 
-1. [1.1 - What is Data Science?](https://youtu.be/VUkiGXV75qo)
-2. [1.2 - Statistics for Data Science](https://youtu.be/NcjGNJzvGMI)
-3. [1.3 - Choosing Appropriate Visualizations](https://youtu.be/ygqlT71R5-E)
-4. [1.4 - Introduction to Jupyter Notebooks](https://youtu.be/ilv_MtCJwy8)
+- [1.1 - What is Data Science?](https://youtu.be/VUkiGXV75qo)
+- [1.2 - Statistics for Data Science](https://youtu.be/NcjGNJzvGMI)
+- [1.3 - Choosing Appropriate Visualizations](https://youtu.be/ygqlT71R5-E)
+- [1.4 - Introduction to Jupyter Notebooks](https://youtu.be/ilv_MtCJwy8)
 
 ## Jupyter Notebooks
 
