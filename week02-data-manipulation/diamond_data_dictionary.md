@@ -26,7 +26,7 @@ The dataset includes measurements of a diamond's size, quality, and price.
 * Measures the quality of the diamond's cut.
 * Better cuts generally reflect light more effectively.
 
-Order (lowest to highest quality):
+#### Order (lowest to highest quality):
 
 1. Fair
 2. Good
