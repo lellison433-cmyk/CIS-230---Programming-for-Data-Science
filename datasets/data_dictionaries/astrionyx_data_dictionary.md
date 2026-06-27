@@ -12,6 +12,35 @@ It is designed for learning:
 - SQL
 - Introductory machine learning
 
+## Dataset Versions
+
+Two versions of the dataset are provided for instructional purposes.
+
+### `astrionyx_messy.csv`
+
+This version intentionally contains common real-world data quality issues that students are expected to identify and correct as part of the data wrangling process. Depending on the lesson, these issues may include:
+
+- Missing values
+- Duplicate records
+- Inconsistent formatting
+- Invalid or out-of-range values
+- Incorrect data types
+- Other data quality problems commonly encountered in practice
+
+This dataset is intended for learning and practicing data cleaning techniques before performing analysis.
+
+### `astrionyx_clean.csv`
+
+This version contains the same underlying data after it has been cleaned and prepared for analysis. Data quality issues present in the messy dataset have been corrected, making this version suitable for:
+
+- Exploratory Data Analysis (EDA)
+- Data visualization
+- Feature engineering
+- Statistical analysis
+- Machine learning
+
+Both datasets contain the same variables and represent the same fictional population, allowing students to experience the complete workflow from raw data to analysis-ready data.
+
 ---
 
 # Variables
