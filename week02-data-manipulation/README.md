@@ -12,7 +12,7 @@ This folder contains the materials for Week 2 of CIS 230.
 ## Jupyter Notebooks
 Note - 2.1 does not have a practice notebook.
 - **2.1 - Introduction to NumPy Notebooks**
-  - [Video Jupyter Notebook](https://colab.research.google.com/drive/13_fdZrywO0EYdyj2FIbAIKlWEfpjDrlh?usp=sharing)
+  - [2.1 Video Jupyter Notebook](https://colab.research.google.com/drive/13_fdZrywO0EYdyj2FIbAIKlWEfpjDrlh?usp=sharing)
 
 - **2.2 - Exploring and Summarizing Data with Pandas Notebooks**
   - [2.2 Video Jupyter Notebook](https://colab.research.google.com/drive/1mPbsQKooPQ22OzCdUHAOglWSJLztr-SQ?usp=sharing)
