@@ -28,9 +28,5 @@ Welcome to the course repository for CIS 230. This repository contains datasets,
 ### Week 5: Machine Learning Foundations
 - [Week 5 Materials](week05-machine-learning)
 
-### Week 6: Advanced Machine Learning
+### Week 6: Core Machine Learning Models
 - [Week 6 Materials](week06-advanced-machine-learning)
-
-## Final Project
-
-- [Final Project Materials](final-project)
