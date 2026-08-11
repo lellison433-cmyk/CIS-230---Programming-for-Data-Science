@@ -23,7 +23,7 @@ This folder contains the materials for Week 4 of CIS 230.
 
 - **M 0.3 - Preparing Data for Machine Learning (Notebook)**
   - [M 0.3 Lecture Jupyter Notebook](https://colab.research.google.com/drive/1YgJqFExyFPz8VXNbCIWSKUIlH2_nNbFn?usp=sharing)
-  - [M 0.3 Practice Jupyter Notebook]
+  - [M 0.3 Practice Jupyter Notebook](https://colab.research.google.com/drive/1jIKlzX99FpWX5SVGvTVHuRg32l9VXJA_?usp=sharing)
 
 
 Note - the relevant datasets for this week can be found in the datasets folder.
