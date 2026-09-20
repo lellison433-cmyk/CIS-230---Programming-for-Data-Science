@@ -1,6 +1,6 @@
-# Week 2: Data Manipulation and Visualization in Python
+# Chapter 2: Data Manipulation and Visualization in Python
 
-This folder contains the materials for Week 2 of CIS 230.
+This folder contains the materials for Chapter 2 of CIS 230.
 
 ## Videos
 
@@ -9,21 +9,4 @@ This folder contains the materials for Week 2 of CIS 230.
 - [2.3 - Data Visualization with Matplotlib](https://youtu.be/OozcWilOOa4?si=8H1y62J3791xosjJ)
 - [2.4 - Data Visualization with Seaborn](https://youtu.be/ZzIh6ug-dc0?si=2Df5tKVZDYp9ziz5)
 
-## Jupyter Notebooks
-Note - 2.1 does not have a practice notebook.
-- **2.1 - Introduction to NumPy Notebooks**
-  - [2.1 Video Jupyter Notebook](https://colab.research.google.com/drive/13_fdZrywO0EYdyj2FIbAIKlWEfpjDrlh?usp=sharing)
-
-- **2.2 - Exploring and Summarizing Data with Pandas Notebooks**
-  - [2.2 Video Jupyter Notebook](https://colab.research.google.com/drive/1mPbsQKooPQ22OzCdUHAOglWSJLztr-SQ?usp=sharing)
-  - [2.2 Practice Jupyter Notebook](https://colab.research.google.com/drive/1gMzKkSE_pxXrqRt6RhpE6TdFi7O0Y4eh?usp=sharing)
-
-- **2.3 - Data Visualization with Matplotlib Notebooks**
-  - [2.3 Video Jupyter Notebook](https://colab.research.google.com/drive/1DEWq4EvYb3Dl-iCZviMeyI66KDuVU1kH?usp=sharing)
-  - [2.3 Practice Jupyter Notebook](https://colab.research.google.com/drive/1F7EnJxkzuBz_SfOjfuLDhOS74jGUTEzs?usp=sharing)
-
-- **2.4 - Data Visualization with Seaborn Notebooks**
-  - [2.4 Video Jupyter Notebook](https://colab.research.google.com/drive/1Jt-R9K-8leu7tfGJlRURA9kxznpRoj6u?usp=sharing)
-  - [2.4 Practice Jupyter Notebook](https://colab.research.google.com/drive/1-i6ocR4ObD18PPsuXskIzqmUiwdEdxEw?usp=sharing)
-
-Note - the relevant datasets for this week can be found in the datasets folder.
+Note - the relevant datasets for this week can be found in the datasets folder. The associated Jupyter Notebooks can be found in the description of each video.
