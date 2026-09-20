@@ -1,6 +1,6 @@
-# Week 4: SQL and Machine Learning Introduction
+# Chapter 4: SQL and Machine Learning Introduction
 
-This folder contains the materials for Week 4 of CIS 230.
+This folder contains the materials for chapter 4 of CIS 230.
 
 ## Videos
 
