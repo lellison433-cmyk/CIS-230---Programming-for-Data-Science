@@ -1,6 +1,6 @@
-# Week 3: Data Wrangling and Exploratory Data Analysis (EDA)
+# Chapter 3: Data Wrangling and Exploratory Data Analysis (EDA)
 
-This folder contains the materials for Week 3 of CIS 230.
+This folder contains the materials for chapter 3 of CIS 230.
 
 ## Videos
 
